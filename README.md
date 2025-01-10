@@ -24,7 +24,7 @@ Estou sempre buscando aprender novas tecnologias e expandir meu conhecimento em 
 ---
 
 ## 🌐 Onde me encontrar  
-- [[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauacampos/)  
+- [(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauacampos/)  
 - [GitHub](https://github.com/CauaCamp0s)  
 - [Instagram](https://www.instagram.com/cauacampos._/)  
 
