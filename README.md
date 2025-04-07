@@ -65,4 +65,4 @@ Estou sempre buscando aprender novas tecnologias e expandir meu conhecimento em 
 </p>
 
 
-Se tiver interesse em colaborar ou discutir ideias, não hesite em me chamar! 😊  
+Estou sempre aberto a colaborações e boas conversas sobre tecnologia. Me chama! 😊
