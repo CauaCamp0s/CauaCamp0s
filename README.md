@@ -42,10 +42,6 @@ Minha jornada na programação começou em **2019** e, desde então, venho aprim
 
 ---
 
-## 📊 Estatísticas do GitHub  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCamp0s&hide_progress=true)
-
----
 
 ## 🎯 Objetivo  
 Meu foco atual é desenvolver sistemas eficientes e escaláveis, contribuindo para projetos desafiadores.  
