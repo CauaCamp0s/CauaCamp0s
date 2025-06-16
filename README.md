@@ -4,7 +4,7 @@
 Bem-vindo(a) ao meu perfil! 🚀  
 
 ## Sobre mim  
-Sou desenvolvedor backend e full stack com quase 3 anos de experiência no desenvolvimento de software, focando em criar soluções web inovadoras, escaláveis e eficientes. Minha jornada na programação começou em 2019, e desde então venho me aprofundando em tecnologias modernas e boas práticas de desenvolvimento.
+Sou desenvolvedor backend e full stack com quase 4 anos de experiência no desenvolvimento de software, focando em criar soluções web inovadoras, escaláveis e eficientes. Minha jornada na programação começou em 2019, e desde então venho me aprofundando em tecnologias modernas e boas práticas de desenvolvimento.
 
 Tenho experiência sólida com Python, Flask, FastAPI, Node.js, Express, React.js, SQL, PrismaORM, Docker, RabbitMQ e ambientes Linux. Sou apaixonado por backend, APIs bem estruturadas, arquitetura limpa e desempenho.
 
